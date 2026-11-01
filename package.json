@@ -1,0 +1,13 @@
+{
+  "name": "pengembangan_web",
+  "version": "1.0.0",
+  "description": "Contoh server HTTP dan HTTPS menggunakan Express.js",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js",
+    "https": "node httpsexpress.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
